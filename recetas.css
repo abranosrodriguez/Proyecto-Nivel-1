@@ -1,0 +1,49 @@
+img {
+    width: 400px;
+    margin-bottom: 35px;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: none;
+    margin-top: 20px;
+}
+
+
+ul,
+ol,
+.contenido {
+    width: 60%;
+    margin: 10px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+li {
+    margin: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.link {
+    color: blue;
+}
+
+.imagen_pequena {
+    width: 80px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.imagen_mas_pequena {
+    width: 50px;
+    padding: 5px;
+
+}
